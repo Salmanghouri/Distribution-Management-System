@@ -1,0 +1,60 @@
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.pdb
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Categories.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\DMS-ERP.csproj.GenerateResource.cache
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\DMS-ERP.csproj.CoreCompileInputs.cache
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.exe
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.pdb
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\bin\Debug\IMS-ByG.exe
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\bin\Debug\IMS-ByG.pdb
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\DMS-ERP.csprojAssemblyReference.cache
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Categories.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\DMS-ERP.csproj.GenerateResource.cache
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\DMS-ERP.csproj.CoreCompileInputs.cache
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS-ByG.exe
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS-ByG.pdb
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Forms.Stocks.resources
+G:\IMSDB\Main IMS-ByG 1.0\IMS-ByG\obj\Debug\IMS_ByG.Forms.About.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\bin\Debug\IMS-ByG.exe
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\bin\Debug\IMS-ByG.pdb
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\DMS-ERP.csprojAssemblyReference.cache
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Forms.About.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Categories.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Forms.Stocks.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\DMS-ERP.csproj.GenerateResource.cache
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\DMS-ERP.csproj.CoreCompileInputs.cache
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS-ByG.exe
+G:\IMSDB\Main IMS-ByG 3.0\IMS-ByG\obj\Debug\IMS-ByG.pdb

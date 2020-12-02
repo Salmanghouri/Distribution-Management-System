@@ -1,0 +1,185 @@
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.pdb
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.exe
+C:\Users\salma\source\repos\IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.2\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.2.1\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.3\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.3 .1\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4 - Copy\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+F:\new sg bins\IMS-ByG 1.4 - Main\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.pdb
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Categories.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.exe
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.pdb
+F:\IMS_SG System\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.pdb
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Categories.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.exe
+C:\Users\salma\Dropbox\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.pdb
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe.config
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.exe
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\bin\Debug\IMS-ByG.pdb
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csprojAssemblyReference.cache
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Categories.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.HomeScreen.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Login.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.MDI.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.products.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Properties.Resources.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.rightsuser.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Sample2.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Settings.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS_ByG.Users.resources
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.GenerateResource.cache
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.csproj.CoreCompileInputs.cache
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.exe
+G:\IMSDB\software\Main IMS-ByG\IMS-ByG\obj\Debug\IMS-ByG.pdb
